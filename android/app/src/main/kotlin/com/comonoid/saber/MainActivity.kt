@@ -1,4 +1,4 @@
-package com.adilhanney.saber
+package com.comonoid.saber
 
 import android.os.Bundle
 import androidx.core.view.ViewCompat

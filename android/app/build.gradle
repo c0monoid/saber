@@ -32,7 +32,7 @@ if (keystorePropertiesFile.exists()) {
 }
 
 android {
-    namespace 'com.adilhanney.saber'
+    namespace 'com.comonoid.saber'
     compileSdkVersion 35
     ndkVersion "26.3.11579264"
 
